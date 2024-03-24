@@ -1,0 +1,83 @@
+body {
+    background-image: url("https://d11bh4d8fhuq47.cloudfront.net/_system/skins/v8/50000122/img/body_bg.png");
+    background-size: initial;
+    background-repeat: repeat-x;
+    background-position-y: top;
+    background-attachment: initial;
+    background-clip: initial;
+    background-color: #3b5b8a;
+    padding: 25px 0;
+    color: antiquewhite;
+
+    
+    line-height: 22px;
+    -webkit-font-smoothing: antialiased;
+    }
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    margin: 50px auto;
+    width: 50%;
+    color: black;
+
+}
+
+.main {
+
+    width: 50%;
+    margin: 50px auto;
+}
+
+
+
+img {
+      margin: 20.4px 0px;
+      font-size: .85rem;
+      vertical-align: middle;
+      width: 600px;
+      margin-top: 0; 
+}
+
+
+
+.emko {
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+nav {
+    background-color: #333;
+    position: sticky;
+    top: 0
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  
+}
+
+nav ul li {
+    float: left;
+    
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  
+}
+
+nav ul li a:hover{
+    background-color: #111;
+}
+
+
+
